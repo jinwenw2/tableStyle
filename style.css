@@ -1,0 +1,30 @@
+.table{
+    text-align: left;
+    vertical-align: bottom;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 5px;
+}
+
+#rowBlue{
+    background-color:blue;
+    color:aliceblue;
+}
+
+#rowGray{
+    background-color: gray;
+}
+
+/* The table part took around 20 minutes to complete. I had some trouble collapsing the borders and I forgot to add some padding to space out the words. Everything went smoothly when this was fixed. */
+
+.box{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    background-color: red;
+    box-shadow: 15px 15px gray;
+}
+
+/*The box was a lot easier to finish. It took me around 5 minutes and everything went well. I had a little trouble with the shadow but it was fixed quickly.
